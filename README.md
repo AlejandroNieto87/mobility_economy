@@ -31,5 +31,10 @@ El proyecto aplica el método **CIPO** para garantizar que el dato se convierta 
 4. Sigue la guía paso a paso para observar las visualizaciones geoespaciales y los modelos de correlación.
 
 ---
-**Analista:** Alejandro Nieto Alvarez  
-**Especialidad:** Mentoría, Consultoría Empresarial y Tecnología.
+
+## 🤝 Conecta conmigo
+Si buscas transformar datos en decisiones estratégicas bajo el método CIPO:
+* **LinkedIn**: [linkedin.com/in/alejandronieto-cipo-mentor-consultor](https://linkedin.com/in/alejandronieto-cipo-mentor-consultor)
+* **Sitio Web**: [alejandronietoalvarez.com](https://alejandronietoalvarez.com)
+* **Substack**: [CIPO para líderes](https://alejandronieto.substack.com/)
+
